@@ -1,0 +1,4 @@
+# Local working files from upgrading specific Pis (contain hostnames)
+logs/
+state/
+.DS_Store
