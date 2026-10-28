@@ -357,3 +357,7 @@ sudo systemctl start octoprint
 ## Disclaimer
 
 Provided as-is. It worked on the setups described above, but back up first and don't run it during a print.
+
+## License
+
+[MIT](LICENSE)
